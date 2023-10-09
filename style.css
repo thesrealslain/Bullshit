@@ -1,0 +1,35 @@
+* {
+    margin: 100;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #d4bdde;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.chart{
+    padding: 25px;
+    border: 1px solid #f49131;
+    border-radius: 1rem;
+    background: #251c35
+
+}
